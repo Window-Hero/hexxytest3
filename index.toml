@@ -438,6 +438,11 @@ hash = "cd5bde79fbcae658f08a00905fae40e98bdc37667946be694e0bfb1cf55050dc"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
+metafile = true
+
+[[files]]
 file = "mods/chunk-debug.pw.toml"
 hash = "e442ddfb674725845a40b09f736c0fbb8e26d520dd06e26d8720e4267f28da90"
 metafile = true
@@ -792,6 +797,11 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "b1f3b4fef1649dc30619aa87ae6caed97c98d5cf6ba94622cc214f4049628e46"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "319a316a41db9adfda48349bd92fa8cefe43ba5aee2d5cf41cb9ab9525dcfeac"
 metafile = true
 
 [[files]]
@@ -1661,6 +1671,11 @@ metafile = true
 [[files]]
 file = "mods/telluriumforge.pw.toml"
 hash = "478e67572c614a53a71cc301bceeda6d5cdf5f993779b6318d4d9106c2625725"
+metafile = true
+
+[[files]]
+file = "mods/templates-2.pw.toml"
+hash = "35a48ce237a5ff9df15d7c737a69a2afce357cc9c876c00cbb143b5ad4b85038"
 metafile = true
 
 [[files]]
