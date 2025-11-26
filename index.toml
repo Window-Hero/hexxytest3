@@ -269,6 +269,11 @@ hash = "d0eb474d87b7478361597c4d59adeaf3b42cf384526c9adad745c707b82797c9"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "f53692469637eda8ca8e113738fc02e4a08a2093781da80c96c8fdf0671b65b2"
+metafile = true
+
+[[files]]
 file = "mods/appspec-1.0.2.jar"
 hash = "3cd20aec4f8bf239e2ac8195dad78ffe5b391f8209225c2b82589d1d66de6821"
 
